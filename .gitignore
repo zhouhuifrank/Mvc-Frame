@@ -21,3 +21,16 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+/.idea/
+/Mvc-Frame.iml
+/Mvc-start/Mvc-start.iml
+/Mvc-common/Mvc-common.iml
+/Mvc-web/Mvc-web.iml
+/Mvc-service/Mvc-service.iml
+/Mvc-core/Mvc-core.iml
+/Mvc-manager/Mvc-manager.iml
+/Mvc-storage/Mvc-storage.iml
+/Mvc-storage/Mvc-storage.iml
+/Mvc-rpc/Mvc-rpc.iml
+/Mvc-redis/Mvc-redis.iml
